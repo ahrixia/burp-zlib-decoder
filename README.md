@@ -1,5 +1,3 @@
-README:
-
 # burp-zlib-decoder
 
 Burp Suite extension (Jython) that decompresses zlib-encoded HTTP request and
